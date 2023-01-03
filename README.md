@@ -1,7 +1,7 @@
 # Artificial-Inteligence
 
 ## About
-This repo contains the deliverables for written and code excercises of the course *Artificial Intelligence* (2019-2020)
+This repo contains the deliverables for written and coding exercises of the course *Artificial Intelligence* (2019-2020)
 
 ## Contents
 1. In the first notebook we construct various search algorithms and apply them to find the best path in square grid $N\times N$.
